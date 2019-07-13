@@ -4,7 +4,7 @@
 'use strict';
 
 console.log('[EHD] E-Hentai Downloader is running.');
-console.log('[EHD] Bugs Report >', 'https://github.com/ccloli/E-Hentai-Downloader/issues | https://greasyfork.org/scripts/10379-e-hentai-downloader/feedback');
+console.log('[EHD] Bugs Report >', 'https://github.com/dnsev-h/E-Hentai-Downloader/issues');
 console.log('[EHD] To report a bug, it\'s recommended to provide the logs started with "[EHD]", thanks. =w=');
 
 // GreaseMonkey 4.x compatible
