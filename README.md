@@ -19,8 +19,7 @@ Download E-Hentai archive as zip file :package:
 
 ## Install This Script
 
-- [Download from GitHub](https://github.com/ccloli/E-Hentai-Downloader/raw/master/e-hentai-downloader.user.js)
-- [Download from GreasyFork](https://sleazyfork.org/scripts/10379-e-hentai-downloader)
+- [Download from GitHub](https://github.com/dnsev-h/E-Hentai-Downloader/raw/x-release/e-hentai-downloader.user.js)
 
 
 ## How To Use
@@ -49,7 +48,7 @@ This script won't download archive from E-Hentai archive download page, so it wo
 - If you are using the latest Tampermonkey, or receive a warning of _"A userscript wants to access a cross-origin resource"_ from Tampermonkey, please **Allow All** or turn off "@connect mode" at setting page. For more info, [see details here](https://github.com/ccloli/E-Hentai-Downloader/wiki/Cross-origin-request-warning-from-Tampermonkey)
 - If you receive a message about out of memory on Firefox, or file not found on Chrome, [see solution here](https://github.com/ccloli/E-Hentai-Downloader/wiki/Can't-make-Zip-file-successfully)
 - ViolentMonkey doesn't support timeout, final URL and download progress
-- Single-thread download mode is removed in 1.18, if you need it, roll back to [old version](https://github.com/ccloli/E-Hentai-Downloader/releases/tag/v1.17.4)
+- Single-thread download mode is removed in 1.18, if you need it, roll back to [old version](https://github.com/dnsev-h/E-Hentai-Downloader/releases/tag/v1.17.4)
 - You can also have a look at [E-Hentai Image Viewing Limits](https://github.com/ccloli/E-Hentai-Downloader/wiki/E%E2%88%92Hentai-Image-Viewing-Limits)
 - Most of galleries may have torrents to download. You can download archive with torrent to get stable download experience, get bonus content (most in cosplay gallery), earn GP and credit, and reduce the pressure of E-Hentai original servers (though it's a P2P site)
 
@@ -121,7 +120,7 @@ For **Firefox**, from our previous data from [FileSaver.js](https://github.com/e
 
 ## Report A Bug
 
-You can report a bug or give suggestions at [GitHub Issue](https://github.com/ccloli/E-Hentai-Downloader/issues) or [GreasyFork Feedback](https://sleazyfork.org/scripts/10379-e-hentai-downloader/feedback). English and Chinese are acceptable :stuck_out_tongue_closed_eyes:
+You can report a bug or give suggestions at [GitHub Issue](https://github.com/dnsev-h/E-Hentai-Downloader/issues). English and Chinese are acceptable :stuck_out_tongue_closed_eyes:
 
 English is not my mother tounge, so if you found any mistakes, don't hesitate to [let me know](https://github.com/ccloli/E-Hentai-Downloader/issues/24) =ω=
 
